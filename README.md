@@ -24,4 +24,5 @@ Atividades e exercícios desenvolvidos durante o curso de Sistemas de Informaç�
 ## 4º Semestre
 
 [Programação Funcional](https://github.com/cauebucci/espm.pf.2023.2)
+[Análise Exploratória](https://github.com/cauebucci/espm.ae.2023.2)
 
